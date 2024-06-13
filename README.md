@@ -2,7 +2,7 @@
 Modeling nitrate load from a tidally influenced watershed 
 
 Overview
-This project involves modeling nitrate load from a tidally influenced watershed. Specifically, it estimates the annual nitrate load for the Moro Cojo Slough in Moss Landing, CA. The data was autonomously monitored using a station equipped with a SonTek ADCP and a Sea-Bird SUNA nitrate sensor collecting data every 20min. Additionally, tide data was obtained from NOAA station 9413450.
+This project involves modeling nitrate load from a tidally influenced watershed. Specifically, it estimates the annual nitrate load for the Moro Cojo Slough in Moss Landing, CA. The dishcharge and nitrate data were autonomously gathered by a station equipped with a SonTek ADCP and a Sea-Bird SUNA nitrate sensor. Due to occasional station downtime, the model also incorporates tide data from NOAA station 9413450 to estimate watershed discharge and fill the data gaps.
 
 Project Details
 Watershed: Moro Cojo Slough, Moss Landing, CA
